@@ -1,5 +1,5 @@
 # awesome-bitsy
-A collection of tools, resources, guides, and more related to the game engine bitsy. Make pull requests [here](https://github.com/LJNIC/awesome-bitsy/).
+A collection of tools, resources, guides, and more related to the game engine [bitsy](http://www.bitsy.org/). Make pull requests [here](https://github.com/LJNIC/awesome-bitsy/).
 
 # tools
 * [borksy](https://ayolland.itch.io/borksy) - apply hacks to your bitsy games
