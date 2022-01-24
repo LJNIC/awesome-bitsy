@@ -37,5 +37,5 @@ A collection of tools, resources, guides, and more related to the game engine bi
 * [mosi](https://zenzoa.itch.io/mosi) - a bitsy-like with built-in audio, bigger palettes, extended scripting, and more
 * [bipsi](https://kool.tools/bipsi/) - a clone of bitsy with some different scripting
 
-# miscellaneous (i spelled this correctly first try)
+# miscellaneous
 * [bitsybox](https://ledoux.itch.io/bitsybox) - run bitsy games outside of a browser
