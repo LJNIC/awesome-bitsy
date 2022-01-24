@@ -18,10 +18,17 @@ A collection of tools, resources, guides, and more related to the game engine [b
 # graphical resources
 * [custom bitsy fonts](https://miniwoolf.itch.io/custom-bitsy-fonts) - a great collection of fonts for bitsy
 * [alphabet tiles](https://pastebin.com/evJzQiYj) - the alphabet as copy & pastable tiles
-* [mrmotext](https://mrmotarius.itch.io/mrmotext) - a collection of 8x8 tiles (not directly bitsy related, costs $5)
-* [Alcuin font](https://aliivibrio.itch.io/alcuin-bitsy-font) - old timey handwritten font
+* [bitsy dungeon tiles](https://enui.itch.io/bitsy-dungeon-tiles) - build your own bitsy dungeon
 * [Balsamy font](https://ayolland.itch.io/balsamy) - a thin font
 * [Brightlinger font](https://ayolland.itch.io/brightlinger) - medieval font
+* [Alcuin font](https://aliivibrio.itch.io/alcuin-bitsy-font) - old timey handwritten font
+* [Micro Roguelike](https://kenney.nl/assets/micro-roguelike) - collection of 8x8 1-bit tiles intended for a roguelike game
+* [mrmotext](https://mrmotarius.itch.io/mrmotext) - a collection of 8x8 tiles (not directly bitsy related, costs $5)
+* [8px](https://vectorpixelstar.itch.io/8px) - 8x8 1-bit textures, sprites, and shapes
+
+
+You might find more by browsing [1-bit assets on itch.io](https://itch.io/game-assets/tag-1-bit).
+
 
 # guides
 * [A Bitsy Tutorial](http://www.shimmerwitch.space/bitsyTutorial) - the classic bitsy tutorial
