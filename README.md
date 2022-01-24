@@ -19,6 +19,9 @@ A collection of tools, resources, guides, and more related to the game engine bi
 * [custom bitsy fonts](https://miniwoolf.itch.io/custom-bitsy-fonts) - a great collection of fonts for bitsy
 * [alphabet tiles](https://pastebin.com/evJzQiYj) - the alphabet as copy & pastable tiles
 * [mrmotext](https://mrmotarius.itch.io/mrmotext) - a collection of 8x8 tiles (not directly bitsy related, costs $5)
+* [Alcuin font](https://aliivibrio.itch.io/alcuin-bitsy-font) - old timey handwritten font
+* [Balsamy font](https://ayolland.itch.io/balsamy) - a thin font
+* [Brightlinger font](https://ayolland.itch.io/brightlinger) - medieval font
 
 # guides
 * [A Bitsy Tutorial](http://www.shimmerwitch.space/bitsyTutorial) - the classic bitsy tutorial
