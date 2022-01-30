@@ -25,6 +25,7 @@ A collection of tools, resources, guides, and more related to the game engine [b
 * [Micro Roguelike](https://kenney.nl/assets/micro-roguelike) - collection of 8x8 1-bit tiles intended for a roguelike game
 * [mrmotext](https://mrmotarius.itch.io/mrmotext) - a collection of 8x8 tiles (not directly bitsy related, costs $5)
 * [8px](https://vectorpixelstar.itch.io/8px) - 8x8 1-bit textures, sprites, and shapes
+* [1-Bit 8x8 Tileset](https://teaceratops.itch.io/1-bit-tileset) - 8x8 1-bit tiles intended for game engines like bitsy
 
 
 You might find more by browsing [1-bit assets on itch.io](https://itch.io/game-assets/tag-1-bit).
