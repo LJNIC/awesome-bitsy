@@ -5,6 +5,7 @@ A collection of tools, resources, guides, and more related to the game engine [b
 * [borksy](https://ayolland.itch.io/borksy) - apply hacks to your bitsy games
 * [bitsy-savior](https://aloelazoe.itch.io/bitsy-savior) - save your bitsy games without overwriting hacks
 * [bitsy-merge](https://seansleblanc.itch.io/bitsy-merge) - merge multiple games (great for collabs!)
+* [bitsy-optimizer](https://seansleblanc.itch.io/bitsy-optimizer) - remove duplicate and unused data
 * [pixsy](https://ruin.itch.io/pixsy) - turn images into a bitsy room
 * [tilesy](https://ruin.itch.io/tilesy) - turn images into bitsy tiles
 * [Fontsy](https://seansleblanc.itch.io/fontsy) - convert images to bitsy fonts
