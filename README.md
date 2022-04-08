@@ -49,3 +49,4 @@ You might find more by browsing [1-bit assets on itch.io](https://itch.io/game-a
 
 # miscellaneous
 * [bitsybox](https://ledoux.itch.io/bitsybox) - run bitsy games outside of a browser
+* [article on bitsy from *The Verge*](https://www.theverge.com/22929485/bitsy-tiny-video-game-engine) - titled "Bitsy is the small video game engine with a big community"
