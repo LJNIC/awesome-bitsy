@@ -11,10 +11,12 @@ A collection of tools, resources, guides, and more related to the game engine [b
 * [Fontsy](https://seansleblanc.itch.io/fontsy) - convert images to bitsy fonts
 * [palettsy](https://zenzoa.itch.io/palettsy) - generate bitsy palettes
 * [Shiftsy](https://brandonmakesthings.itch.io/shiftsy) - shift everything in a room, for when you miscalculate
+* [bitsy room converter](https://hideous-cave-goblin.itch.io/room) - convert images to bitsy rooms and make animated rooms (it can be finicky, so be sure to read all the directions)
 
 # extensions / hacks
 * [bitsy-hacks](https://seleb.github.io/bitsy-hacks/) - the defacto standard collection of bitsy hacks
 * [Bitsy Museum Hack](https://erikaverkaaik.itch.io/bitsy-museum-hack) - combine multiple bitsies!
+* [Multi-Bitsy](https://switch-b.itch.io/multi-bitsy) - a tool to make an HTML page with multiple bitsy games controlled simultaneously
 
 # graphical resources
 * [custom bitsy fonts](https://miniwoolf.itch.io/custom-bitsy-fonts) - a great collection of fonts for bitsy
